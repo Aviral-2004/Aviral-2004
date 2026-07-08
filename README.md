@@ -14,9 +14,7 @@
 - 🚀 Currently building **NIRVANA** – An AI-powered Healthcare Management Platform
 - 🌱 Learning **Node.js, Express.js, MongoDB & System Design**
 - 📚 Solving **Data Structures & Algorithms** using C++
-- 📈 Interested in **Stock Market, Investing & Trading**
-- 🎯 Goal: Become a Software Engineer at a Top Product-Based Company
-
+- 📈 Interested in collaborative team projects, open-source contributions, and the stock market.
 ---
 
 ## 🚀 Tech Stack
