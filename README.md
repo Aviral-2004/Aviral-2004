@@ -42,16 +42,13 @@
 
 ## 🌟 Featured Project
 
-### 🏥 NIRVANA
-> AI-powered Healthcare Management Platform
+🏙️ CivicConnect
+Empowering citizens to build better communities
 
-✨ Features:
-- AI Health Assistant
-- Doctor Appointment Management
-- Health Records
-- Medicine Reminder
-- Emergency Support
-- Modern Responsive UI
+CivicConnect is a modern civic engagement platform that enables citizens to report municipal issues, track their resolution progress, and work together with local authorities to improve their communities.
+
+
+
 
 ---
 
