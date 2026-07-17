@@ -11,7 +11,6 @@
 
 - 🎓 B.Tech CSE Student
 - 💻 Passionate about **Full Stack Web Development**
-- 🚀 Currently building **NIRVANA** – An AI-powered Healthcare Management Platform
 - 🌱 Learning **Node.js, Express.js, MongoDB & System Design**
 - 📚 Solving **Data Structures & Algorithms** using C++
 - 📈 Interested in collaborative team projects, open-source contributions, and the stock market.
